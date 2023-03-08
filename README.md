@@ -4,10 +4,7 @@
 
 ## 🌱 I’m currently learning
 [//]: <>
-JavaScript 
-HTML
-CSS
-
+JavaScript, HTML, CSS and TDD(Test Driven Development)
 
 ## Past Projects
 [//]: <>
