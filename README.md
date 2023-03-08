@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there 👋 I'm Sophie!
+- 😄 Pronouns: she/her
+- ⚡ Fun fact
 
-<!--
-**sophielabelle/sophielabelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 I’m currently learning
+[//]: <>
+JavaScript 
+HTML
+CSS
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Past Projects
+[//]: <>
+![Overlook Hotel](https://github.com/sophielabelle/overlook)
+![ColoRandom](https://github.com/sophielabelle/coloRandom) colab with [Kirk Hauck](https://github.com/kirkhauck), [Katherine Blaine](https://github.com/KatherineBlaine), and [Joseph (Joe) Fogiato](https://gist.github.com/jfogiato)
+[Whats Cookin](https://github.com/sophielabelle/whatsCookin) colab with [Winston Calhoun](https://github.com/WinstonCalhoun), [Bea Ordonez](https://github.com/bea-ordonez), and [Shane Misra](https://github.com/sdmisra)
+
+## 🔗 Connect with me!
+[//]: <>
+[LinkedIn](https://www.linkedin.com/in/sophie-labelle-3b4890209/)
