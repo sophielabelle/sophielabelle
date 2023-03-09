@@ -6,11 +6,11 @@
 [//]: <>
 ### React!
 
-## My Languages and Skills! 
+## 🌴 My Languages and Skills! 
 [//]: <>
 ### JavaScript, HTML, CSS and TDD(Test Driven Development)
 
-## Past Projects
+## 📽️ Past Projects
 [//]: <>
 - [Overlook Hotel](https://github.com/sophielabelle/overlook)
 
