@@ -4,11 +4,11 @@
 
 ## 🌱 I’m currently learning
 [//]: <>
-React!
+### React!
 
 ## My Languages and Skills! 
 [//]: <>
-JavaScript, HTML, CSS and TDD(Test Driven Development)
+### JavaScript, HTML, CSS and TDD(Test Driven Development)
 
 ## Past Projects
 [//]: <>
