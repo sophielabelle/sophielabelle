@@ -2,6 +2,8 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I was a snowboarding instructor for 5 years and ride motorcycles!
 
+I live in Oceanside CA, and am a Front End Developer! I like solving tough problems and actively learning new things. I love being outdoors and spending time riding my motorcycle, snowboarding and hanging out on the beach! If I'm not doing any of that I am rolling Jiu Jitsu or playing video games! Feel free to reach out and connect to talk about hobbies or projects!
+
 ## 🌱 I’m currently learning
 [//]: <>
 ### React!
