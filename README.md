@@ -65,7 +65,6 @@
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 ## 📽️ Past Projects
-[//]: <>
 - [Overlook Hotel](https://github.com/sophielabelle/overlook)
 
 - [ColoRandom](https://github.com/sophielabelle/coloRandom) colab with [Kirk Hauck](https://github.com/kirkhauck),[Katherine Blaine](https://github.com/KatherineBlaine), and [Joseph (Joe) Fogiato](https://gist.github.com/jfogiato)
