@@ -1,6 +1,6 @@
 
 ## Hey There 🤚🏼 I'm Sophie LaBelle(she/her)  
-<div align="center">I'm full-time Front End developer 👩🏻‍💻 and live in Vista CA! I like solving tough problems and actively learning new things. I love being outdoors and spending time riding my motorcycle, snowboarding and hanging out on the beach! If I'm not doing any of that I am rolling Jiu Jitsu or playing video games! Feel free to reach out and connect to talk about hobbies or projects! 🤘🏼</div>  
+<div align="center">I'm a full-time Front End developer 👩🏻‍💻 and live in Oceanside CA! I like solving tough problems and actively learning new things. I love being outdoors and spending time riding my motorcycle, snowboarding and hanging out on the beach! If I'm not doing any of that I am rolling Jiu Jitsu or playing video games! Feel free to reach out and connect to talk about hobbies or projects! 🤘🏼</div>  
   
 
 - 🌱 I’m currently learning Typescript and GraphQL
